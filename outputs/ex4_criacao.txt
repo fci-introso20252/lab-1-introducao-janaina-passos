@@ -1,0 +1,6 @@
+total 12
+drwxrwxrwx+ 3 codespace codespace 4096 Sep 26 19:39 .
+drwxrwxrwx+ 7 codespace root      4096 Sep 26 19:33 ..
+-rw-rw-rw-  1 codespace codespace    0 Sep 26 19:39 arquivo1.txt
+-rw-rw-rw-  1 codespace codespace    0 Sep 26 19:39 arquivo2.txt
+drwxrwxrwx+ 3 codespace codespace 4096 Sep 26 19:28 subdir1

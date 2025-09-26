@@ -25,19 +25,22 @@ Para elaborar um relatório completo e que realmente agregue valor ao seu aprend
 **1. Qual foi o comando mais útil que você aprendeu? Por quê?**
 
 ```
-[Sua resposta aqui]
+O comando mais útil que eu aprendi fou o comando ls, pois ele permite visualizar os arquivos e diretórios de forma rápida e organizada.
+
 ```
 
 **2. Qual comando você achou mais difícil de entender? Por quê?**
 
 ```
-[Sua resposta aqui]
+O comando que eu mais achei difícil de entender foi o comando grep, pois possui várias opções e exige entender bem como funciona a busca dentro dos arquivos. 
+
 ```
 
 **3. Você conseguiu completar todos os exercícios? Se não, quais dificuldades encontrou?**
 
 ```
-[Sua resposta aqui]
+Consegui completar todos os exercícios.
+
 ```
 
 ---
@@ -49,21 +52,22 @@ Para elaborar um relatório completo e que realmente agregue valor ao seu aprend
 **1. Liste 3 diferenças principais entre usar Windows e Linux que você notou:**
 
 ```
-1. [Primeira diferença]
-2. [Segunda diferença]
-3. [Terceira diferença]
+1. No Linux muitas tarefas são feitas no terminal, enquanto no Windows se usa mais interface gráfica;
+2. O Linux organiza permissões de arquivos de forma mais rígida que o Windows;
+3.  O Linux é open source e gratuito, já o Windows é proprietário e pago.
 ```
 
 **2. Para tarefas do dia a dia, qual sistema você prefere? Por quê?**
 
 ```
-[Sua resposta aqui]
+Para tarefa do dia a dia eu prefiro o Windows, pois estou mais acostumada com os comandos e é muito mais gráfico e intuitivo.
 ```
 
 **3. Em que situações o Linux seria mais vantajoso que o Windows?**
 
 ```
-[Sua resposta aqui]
+O Linux seria mais vantajoso que o Windows em situações como: quando se precisa condfigurar servidores, automatixar tarefas ou trabalhas com programação
+
 ```
 
 ---
@@ -75,21 +79,23 @@ Para elaborar um relatório completo e que realmente agregue valor ao seu aprend
 **1. Por que é importante para um profissional de Sistemas de Informação conhecer Linux?**
 
 ```
-[Sua resposta aqui]
+É importante para um profissonal de Sistemas de Informação conhecer Linux, pois grande parte dos servidores ao redor do mundo rodam Linux. Com isso, o profissional precisa saber administrar e dar suporte nesses ambientes. 
+
 ```
 
 **2. Como o conhecimento de comandos Linux pode ajudar na gestão de TI de uma empresa?**
 
 ```
-[Sua resposta aqui]
+O conhecimento de comandos Linux pode ajudar na gestão de TI de uma empresa ao permitir gerenciar usários, arquivos e processos de maneira rápida e eficiente. Além de ajudar a automatizar tarefas repetitivas e a monitorar recursos do sistema.
+
 ```
 
 **3. Cite 3 aplicações práticas do Linux no ambiente empresarial:**
 
 ```
-1. [Primeira aplicação]
-2. [Segunda aplicação]
-3. [Terceira aplicação]
+1. Servidores web e de banco de dados;
+2. Sistemas de virtualização e containers;
+3. Ambientes de segurança e monitoramento de rede.
 ```
 
 ---
@@ -101,24 +107,24 @@ Para elaborar um relatório completo e que realmente agregue valor ao seu aprend
 **1. Quantos arquivos você criou no diretório `outputs/`?**
 
 ```
-Total de arquivos: _____
+Total de arquivos: 22
 ```
 
 **2. Qual foi o tamanho total do diretório `meu_diretorio` que você criou?**
 
 ```bash
 # Use o comando: du -sh meu_diretorio/
-Tamanho: _____
+Tamanho: 40K
 ```
 
 **3. Liste os 5 comandos que você mais usou durante o laboratório:**
 
 ```
-1. _____
-2. _____
-3. _____
-4. _____
-5. _____
+1. ls
+2. cd
+3. pwd
+4. echo
+5. cat
 ```
 
 ---
@@ -130,13 +136,14 @@ Tamanho: _____
 **1. Você já tinha usado Git antes? Se sim, em que contexto?**
 
 ```
-[Sua resposta aqui]
+Eu já tinha usado Git antes, tanto em cursos do TIC em trilhas, quanto em outras matérias.
 ```
 
 **2. Qual a importância do versionamento de código para empresas?**
 
 ```
-[Sua resposta aqui - mínimo 3 linhas]
+O versionamento do código é importante para as empresas, pois permite acompanhar as alterações no código, voltar a versões anteriores e organizar o trabalho em equipe. Além disso, garante segurança no desenvolvimento e facilita a colaboração entre diferentes pessoas que trabalham no mesmo projetos.
+
 ```
 
 ---
@@ -148,13 +155,14 @@ Tamanho: _____
 **1. Que tipo de tarefas você poderia automatizar usando comandos Linux?**
 
 ```
-[Sua resposta aqui - cite pelo menos 2 exemplos]
+Os tipos de tarefas que eu poderia automatizar usando comandos Linux, são: backup automático de arquivos importantes e coleta de logs e monitoramento de servidores.
+
 ```
 
 **2. Você consideraria usar Linux como sistema operacional principal? Por quê?**
 
 ```
-[Sua resposta aqui]
+Sim, para aprender mais e praticar programação. Porém, para uso pessoal ainda prefiro Windows por eu estar mais acostumada.
 ```
 
 ---
@@ -170,7 +178,8 @@ Tamanho: _____
 **O que poderia ser melhorado para próximos labs?**
 
 ```
-[Sua resposta aqui]
+Aprender a criar diretórios, manipular arquivos e usar pipes para combinar comandos.
+
 ```
 
 ---

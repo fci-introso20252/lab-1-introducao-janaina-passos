@@ -1,0 +1,7 @@
+EXERCICIOS.md
+README.md
+RELATORIO.md
+docs
+exemplos
+meu_diretorio
+outputs

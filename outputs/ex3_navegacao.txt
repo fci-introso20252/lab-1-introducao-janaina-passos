@@ -1,0 +1,6 @@
+/workspaces/lab-1-introducao-janaina-passos/exemplos
+/workspaces/lab-1-introducao-janaina-passos
+/workspaces/lab-1-introducao-janaina-passos/docs
+/workspaces/lab-1-introducao-janaina-passos/outputs
+/workspaces/lab-1-introducao-janaina-passos
+/workspaces/lab-1-introducao-janaina-passos

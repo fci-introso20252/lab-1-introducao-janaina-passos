@@ -1,0 +1,11 @@
+total 52
+drwxrwxrwx+ 7 codespace root      4096 Sep 26 19:33 .
+drwxr-xrwx+ 5 codespace root      4096 Aug 26 23:25 ..
+drwxrwxrwx+ 8 codespace root      4096 Sep 26 19:33 .git
+-rw-rw-rw-  1 codespace codespace 7663 Sep 26 19:33 EXERCICIOS.md
+-rw-rw-rw-  1 codespace root      4589 Aug 26 23:25 README.md
+-rw-rw-rw-  1 codespace root      4668 Aug 26 23:26 RELATORIO.md
+drwxrwxrwx+ 2 codespace root      4096 Aug 26 23:25 docs
+drwxrwxrwx+ 2 codespace root      4096 Aug 26 23:25 exemplos
+drwxrwxrwx+ 3 codespace codespace 4096 Sep 26 19:36 meu_diretorio
+drwxrwxrwx+ 2 codespace root      4096 Sep 26 19:37 outputs

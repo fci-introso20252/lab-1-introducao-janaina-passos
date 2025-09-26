@@ -1,0 +1,3 @@
+/workspaces/lab-1-introducao-janaina-passos
+codespace
+Fri Sep 26 19:36:56 UTC 2025
